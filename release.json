@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "version": "0.1.6",
+  "appVersion": "0.1.6-help-audited-prototype",
+  "publishedAt": "2026-06-30",
+  "releaseNotes": "Ajout du contrôle manuel de mise à jour, de l’affichage de version et de l’installation explicite d’une version disponible."
+}

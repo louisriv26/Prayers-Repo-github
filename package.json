@@ -1,0 +1,24 @@
+{
+  "name": "mes-prieres-pwa-prototype",
+  "version": "0.1.6",
+  "private": true,
+  "description": "Prototype PWA hors ligne d’un livre de prières personnel.",
+  "scripts": {
+    "corpus": "python3 tools/generate_corpus_js.py",
+    "corpus:check": "python3 tools/generate_corpus_js.py --check",
+    "help": "python3 tools/generate_help_js.py",
+    "help:check": "python3 tools/generate_help_js.py --check",
+    "sw": "python3 tools/generate_sw.py",
+    "audit": "node tools/audit.mjs && python3 tools/release_audit.py --prepackage",
+    "test": "node tests/sw_contract.mjs && python3 tests/integrity_guards.py && python3 tests/e2e.py",
+    "verify": "python3 tools/generate_corpus_js.py && python3 tools/generate_help_js.py && python3 tools/generate_sw.py --check && node tools/audit.mjs && python3 tools/release_audit.py --prepackage && node tests/sw_contract.mjs && python3 tests/integrity_guards.py && python3 tests/e2e.py",
+    "build": "python3 tools/build_release.py --output ../Mes_Prieres_PWA_Prototype_v0.1.6_Help_Audited.zip",
+    "reopen-audit": "python3 tools/reopen_release_audit.py",
+    "verify:ci": "python3 tools/generate_corpus_js.py --check && python3 tools/generate_help_js.py --check && python3 tools/generate_sw.py --check && node tools/audit.mjs && python3 tools/release_audit.py --prepackage && node tests/sw_contract.mjs && python3 tests/integrity_guards.py && python3 tests/e2e.py",
+    "pages:prepare": "python3 tools/prepare_pages_site.py --output site",
+    "pages:verify": "python3 tools/validate_pages_site.py --site site",
+    "github:verify": "npm run verify:ci && npm run pages:prepare && npm run pages:verify && python3 tools/github_package_audit.py --site site && python3 tools/report_line_evidence.py",
+    "github:package": "npm run github:verify && python3 tools/build_github_package.py --output ../Mes_Prieres_GitHub_Package_v0.1.6.zip",
+    "github:reopen-audit": "python3 tools/reopen_github_package_audit.py"
+  }
+}

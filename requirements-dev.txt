@@ -1,0 +1,2 @@
+# Browser-DOM test harness used by GitHub Actions and local CI.
+playwright==1.57.0

@@ -1,0 +1,622 @@
+/* Generated from prayers.json. Do not hand-edit; update prayers.json and regenerate. */
+window.PRAYER_CORPUS = {
+  "corpusVersion": "0.1.0-prototype",
+  "language": "fr-MU",
+  "status": "Prototype privé — texte fourni par l’utilisateur; validation éditoriale et sources détaillées à compléter avant diffusion publique.",
+  "prayers": [
+    {
+      "id": "priere_oui_aujourdhui",
+      "title": "Ma prière du OUI pour aujourd’hui",
+      "categories": [
+        "Quotidien",
+        "Abandon"
+      ],
+      "keywords": [
+        "oui",
+        "Marie",
+        "abandon",
+        "miséricorde",
+        "Saint-Esprit"
+      ],
+      "source": "Texte fourni dans « Répertoire de prières »",
+      "sourceStatus": "À valider",
+      "blocks": [
+        {
+          "type": "line",
+          "text": "Jésus me dit :"
+        },
+        {
+          "type": "quote",
+          "text": "« Que ton oui soit oui et que ton non soit non. »"
+        },
+        {
+          "type": "line",
+          "text": "Par le OUI de Marie j’entre dans mon OUI à Dieu."
+        },
+        {
+          "type": "line",
+          "text": "Aujourd’hui je dis OUI au bien et NON au mal."
+        },
+        {
+          "type": "line",
+          "text": "OUI Seigneur, j’accueille Ton amour et je me laisse aimer,"
+        },
+        {
+          "type": "line",
+          "text": "Très Sainte Trinité : Père, Fils et Saint-Esprit je Vous adore de tout mon être !"
+        },
+        {
+          "type": "line",
+          "text": "OUI Jésus, j’ai confiance en Toi !"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "line",
+          "text": "OUI Père, je m’accepte tel que je suis,"
+        },
+        {
+          "type": "line",
+          "text": "J’accueille ma petitesse et j’accepte de me laisser transformer par Toi,"
+        },
+        {
+          "type": "line",
+          "text": "Je Te donne mes faiblesses et mes limites. Oh, Christ viens vivre en moi !"
+        },
+        {
+          "type": "line",
+          "text": "Jésus, fais couler Ton précieux Sang dans toutes mes blessures,"
+        },
+        {
+          "type": "line",
+          "text": "Père, j’accueille Ta Miséricorde qui vient guérir ma misère."
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "line",
+          "text": "OUI Père, j’accepte les autres tels qu’ils sont sans vouloir les changer,"
+        },
+        {
+          "type": "line",
+          "text": "Je Te confie totalement chacun et chacune afin que Tu t’en occupes."
+        },
+        {
+          "type": "line",
+          "text": "OUI Père, j’accepte les événements tels qu’ils sont, bons ou mauvais,"
+        },
+        {
+          "type": "line",
+          "text": "Je Te donne toutes les clefs de ma vie pour que Tu la conduises,"
+        },
+        {
+          "type": "line",
+          "text": "OUI, je crois que Tu prends soin de toute ma vie jusqu’au moindre détail."
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "line",
+          "text": "OUI Jésus, j’accepte de Te mettre à la première place et d’être centré sur Toi,"
+        },
+        {
+          "type": "line",
+          "text": "OUI Saint-Esprit je T’ouvre tout grand mon cœur, remplis-moi de Toi !"
+        },
+        {
+          "type": "line",
+          "text": "OUI Mon Père je m’abandonne à Toi,"
+        },
+        {
+          "type": "line",
+          "text": "que Ta volonté soit faite et non la mienne !"
+        },
+        {
+          "type": "line",
+          "text": "Prends le contrôle de ma vie."
+        },
+        {
+          "type": "line",
+          "text": "Père, entre Tes mains je remets mon esprit !"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "line",
+          "text": "Amen !",
+          "emphasis": "strong"
+        }
+      ]
+    },
+    {
+      "id": "priere_saint_michel",
+      "title": "Prière à Saint Michel",
+      "categories": [
+        "Protection",
+        "Quotidien"
+      ],
+      "keywords": [
+        "saint Michel",
+        "combat",
+        "démon",
+        "satan",
+        "protection"
+      ],
+      "source": "Texte fourni dans « Répertoire de prières »",
+      "sourceStatus": "À valider",
+      "blocks": [
+        {
+          "type": "line",
+          "text": "Saint Michel, Sois notre soutien dans le combat"
+        },
+        {
+          "type": "line",
+          "text": "et défends-nous contre la malice et les embûches du démon."
+        },
+        {
+          "type": "line",
+          "text": "Que Dieu réprime son audace, nous le demandons humblement."
+        },
+        {
+          "type": "line",
+          "text": "Et toi, Prince de l’armée céleste, refoule en enfer par la puissance divine, Satan et les autres esprits mauvais qui sont répandus dans le monde pour perdre les âmes."
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "line",
+          "text": "Amen",
+          "emphasis": "strong"
+        }
+      ]
+    },
+    {
+      "id": "priere_abandon_charles_de_foucauld",
+      "title": "La prière d’abandon de Charles de Foucauld",
+      "categories": [
+        "Abandon",
+        "Quotidien"
+      ],
+      "keywords": [
+        "abandon",
+        "Charles de Foucauld",
+        "Père",
+        "confiance",
+        "volonté"
+      ],
+      "source": "Texte fourni dans « Répertoire de prières »",
+      "sourceStatus": "À valider",
+      "blocks": [
+        {
+          "type": "line",
+          "text": "Mon Père, je m’abandonne à toi,"
+        },
+        {
+          "type": "line",
+          "text": "fais de moi ce qu’il te plaira."
+        },
+        {
+          "type": "line",
+          "text": "Quoi que tu fasses de moi, je te remercie."
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "line",
+          "text": "Je suis prêt à tout, j’accepte tout."
+        },
+        {
+          "type": "line",
+          "text": "Pourvu que ta volonté se fasse en moi,"
+        },
+        {
+          "type": "line",
+          "text": "en toutes tes créatures,"
+        },
+        {
+          "type": "line",
+          "text": "je ne désire rien d’autre, mon Dieu."
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "line",
+          "text": "Je remets mon âme entre tes mains."
+        },
+        {
+          "type": "line",
+          "text": "Je te la donne, mon Dieu, avec tout l’amour de mon cœur,"
+        },
+        {
+          "type": "line",
+          "text": "parce que je t’aime,"
+        },
+        {
+          "type": "line",
+          "text": "et que ce m’est un besoin d’amour de me donner,"
+        },
+        {
+          "type": "line",
+          "text": "de me remettre entre tes mains, sans mesure,"
+        },
+        {
+          "type": "line",
+          "text": "avec une infinie confiance,"
+        },
+        {
+          "type": "line",
+          "text": "car tu es mon Père."
+        }
+      ]
+    },
+    {
+      "id": "cantique_zacharie_lc_1_68_79",
+      "title": "Cantique de Zacharie (Lc 1, 68-79)",
+      "categories": [
+        "Bible",
+        "Matin"
+      ],
+      "keywords": [
+        "Zacharie",
+        "Benedictus",
+        "Luc",
+        "matin",
+        "salut",
+        "paix"
+      ],
+      "source": "Texte fourni dans « Répertoire de prières »",
+      "sourceStatus": "À vérifier avec la traduction biblique retenue avant diffusion publique",
+      "blocks": [
+        {
+          "type": "line",
+          "text": "Béni soit le Seigneur, le Dieu d’Israël"
+        },
+        {
+          "type": "line",
+          "text": "qui visite et rachète son peuple."
+        },
+        {
+          "type": "line",
+          "text": "Il a fait surgir la force qui nous sauve"
+        },
+        {
+          "type": "line",
+          "text": "dans la maison de David, son serviteur,"
+        },
+        {
+          "type": "line",
+          "text": "comme il l’avait dit par la bouche de Saints,"
+        },
+        {
+          "type": "line",
+          "text": "par ses prophètes, depuis les temps anciens :"
+        },
+        {
+          "type": "line",
+          "text": "salut qui nous arrache à l’ennemi,"
+        },
+        {
+          "type": "line",
+          "text": "à la main de tous nos oppresseurs,"
+        },
+        {
+          "type": "line",
+          "text": "amour qu’il montre envers nos pères,"
+        },
+        {
+          "type": "line",
+          "text": "mémoire de son alliance sainte,"
+        },
+        {
+          "type": "line",
+          "text": "serment juré à notre père Abraham,"
+        },
+        {
+          "type": "line",
+          "text": "de nous rendre sans crainte,"
+        },
+        {
+          "type": "line",
+          "text": "afin que délivrés de la main des ennemis"
+        },
+        {
+          "type": "line",
+          "text": "nous le servions, dans la justice et la sainteté"
+        },
+        {
+          "type": "line",
+          "text": "en sa présence, tout au long de nos jours."
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "line",
+          "text": "Et toi, petit enfant, tu seras appelé prophète du Très-Haut :"
+        },
+        {
+          "type": "line",
+          "text": "tu marcheras devant, à la face du Seigneur, et tu prépareras ses chemins"
+        },
+        {
+          "type": "line",
+          "text": "pour donner à son peuple de connaître le salut"
+        },
+        {
+          "type": "line",
+          "text": "par la rémission de ses péchés,"
+        },
+        {
+          "type": "line",
+          "text": "grâce à la tendresse, à l’amour de notre Dieu,"
+        },
+        {
+          "type": "line",
+          "text": "quand nous visite l’astre d’en haut,"
+        },
+        {
+          "type": "line",
+          "text": "pour illuminer ceux qui habitent les ténèbres et l’ombre de la mort,"
+        },
+        {
+          "type": "line",
+          "text": "pour conduire nos pas au chemin de la paix."
+        }
+      ]
+    },
+    {
+      "id": "priere_donnee_par_jesus_in_sinu_jesu",
+      "title": "Prière donnéé par Jesus In Sinu Jesu",
+      "categories": [
+        "Quotidien",
+        "Abandon"
+      ],
+      "keywords": [
+        "In Sinu Jesu",
+        "Jésus",
+        "volonté",
+        "miséricorde",
+        "louange"
+      ],
+      "source": "Texte fourni dans « Répertoire de prières »",
+      "sourceStatus": "À valider",
+      "blocks": [
+        {
+          "type": "line",
+          "text": "Mon Jésus,"
+        },
+        {
+          "type": "line",
+          "text": "seulement ce que Tu veux, quand Tu le veux,"
+        },
+        {
+          "type": "line",
+          "text": "et comme Tu le veux."
+        },
+        {
+          "type": "line",
+          "text": "A Toi soient toute gloire, action de grâces et louange,"
+        },
+        {
+          "type": "line",
+          "text": "à Toi qui règnes sur toutes choses avec force et douceur,"
+        },
+        {
+          "type": "line",
+          "text": "et qui emplis la terre de l’abondance de tes miséricordes."
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "line",
+          "text": "Amen.",
+          "emphasis": "strong"
+        }
+      ]
+    },
+    {
+      "id": "priere_infusion_divine_volonte",
+      "title": "Prière d’infusion dans la Divine Volonté",
+      "categories": [
+        "Divine Volonté",
+        "Quotidien"
+      ],
+      "keywords": [
+        "Divine Volonté",
+        "infusion",
+        "fusion",
+        "Marie",
+        "sacrifice",
+        "prier"
+      ],
+      "source": "Texte fourni dans « Répertoire de prières »",
+      "sourceStatus": "À valider",
+      "blocks": [
+        {
+          "type": "line",
+          "text": "Je ne suis rien ! Dieu est Tout ! Père, je vous aime !"
+        },
+        {
+          "type": "line",
+          "text": "Ô Divine Volonté, venez penser par mon esprit,"
+        },
+        {
+          "type": "line",
+          "text": "Ô Divine Volonté, venez circuler dans mon sang,"
+        },
+        {
+          "type": "line",
+          "text": "Ô Divine Volonté, venez regarder par mes yeux,"
+        },
+        {
+          "type": "line",
+          "text": "Ô Divine Volonté, venez écouter par mes oreilles,"
+        },
+        {
+          "type": "line",
+          "text": "Ô Divine Volonté, venez parler par ma voix,"
+        },
+        {
+          "type": "line",
+          "text": "Ô Divine Volonté, venez respirer par mon souffle,"
+        },
+        {
+          "type": "line",
+          "text": "Ô Divine Volonté, venez battre dans mon cœur,"
+        },
+        {
+          "type": "line",
+          "text": "Ô Divine Volonté, venez bouger à travers mes mouvements,"
+        },
+        {
+          "type": "line",
+          "text": "Ô Divine Volonté, venez souffrir à travers mes souffrances,"
+        },
+        {
+          "type": "line",
+          "text": "de telle manière que mon âme consumée et fusionnée en Vous,"
+        },
+        {
+          "type": "line",
+          "text": "soit un crucifix vivant pour la Gloire du Père."
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "line",
+          "text": "Ô Divine Volonté, venez prier en moi et recevoir cette prière comme étant la mienne."
+        },
+        {
+          "type": "line",
+          "text": "Ajoutez-y les prières de tout le monde, pour donner au Père la Gloire que toutes les créatures Lui doivent."
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "line",
+          "text": "Ô Divine Volonté, venez infuser en moi la foi de Marie Très Sainte"
+        },
+        {
+          "type": "line",
+          "text": "pour que je puisse croire en Vous comme elle,"
+        },
+        {
+          "type": "line",
+          "text": "Ô Divine Volonté, venez infuser en moi l’espérance de Marie"
+        },
+        {
+          "type": "line",
+          "text": "Très Sainte pour que j’espère en Vous comme elle,"
+        },
+        {
+          "type": "line",
+          "text": "Ô Divine Volonté, venez infuser en moi la charité de Marie"
+        },
+        {
+          "type": "line",
+          "text": "Très Sainte pour que je vous aime comme elle,"
+        },
+        {
+          "type": "line",
+          "text": "Ô Divine Volonté, venez prier et adorer en moi comme Jésus en sa Divine humanité."
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "line",
+          "text": "Venez, Ô Divine Volonté, Vous qui savez multiplier nos actions à l’infini, offrir en moi le Saint Sacrifice de la Croix, comme si tout le monde y avait assisté."
+        },
+        {
+          "type": "line",
+          "text": "Venez distribuer à tous, les fruits de ce Divin Sacrifice pour accorder ainsi le salut à tous. AMEN !"
+        }
+      ]
+    },
+    {
+      "id": "ame_du_christ",
+      "title": "Âme du Christ",
+      "categories": [
+        "Eucharistie",
+        "Protection"
+      ],
+      "keywords": [
+        "âme du Christ",
+        "anima Christi",
+        "Eucharistie",
+        "passion",
+        "mort"
+      ],
+      "source": "Texte fourni dans « Répertoire de prières »",
+      "sourceStatus": "À valider",
+      "blocks": [
+        {
+          "type": "line",
+          "text": "Âme du Christ,"
+        },
+        {
+          "type": "line",
+          "text": "sanctifie-moi."
+        },
+        {
+          "type": "line",
+          "text": "Corps du Christ,"
+        },
+        {
+          "type": "line",
+          "text": "sauve-moi."
+        },
+        {
+          "type": "line",
+          "text": "Sang du Christ,"
+        },
+        {
+          "type": "line",
+          "text": "enivre-moi."
+        },
+        {
+          "type": "line",
+          "text": "Eau du côté du Christ, lave-moi."
+        },
+        {
+          "type": "line",
+          "text": "Passion du Christ, fortifie-moi."
+        },
+        {
+          "type": "line",
+          "text": "Ô bon Jésus, exauce-moi."
+        },
+        {
+          "type": "line",
+          "text": "Dans tes blessures, cache-moi."
+        },
+        {
+          "type": "line",
+          "text": "Ne permets pas que je sois séparé de toi."
+        },
+        {
+          "type": "line",
+          "text": "De l’ennemi perfide, défends-moi."
+        },
+        {
+          "type": "line",
+          "text": "À l’heure de ma mort, appelle-moi. Ordonne-moi de venir à toi, pour qu’avec tes Saints je te loue, toi, dans les siècles des siècles. Amen"
+        }
+      ]
+    }
+  ],
+  "notImportedBecauseTextMissing": [
+    "Notre Père",
+    "Je vous salue Marie"
+  ]
+};

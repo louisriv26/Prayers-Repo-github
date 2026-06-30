@@ -1,0 +1,25 @@
+{
+  "schema": "mes-prieres-runtime-baseline-v1",
+  "baseline_scope": "v0.1.6 runtime asset hashes after source verification; not a claim about physical-device execution.",
+  "source_release": "Mes_Prieres_PWA_Prototype_v0.1.6_Help_Audited.zip",
+  "source_release_sha256": "c08ebea31d4adb56b9c86250d7ae418a52eb6fa6e4480310cf31d34a496d495d",
+  "app_version": "0.1.6-help-audited-prototype",
+  "runtime_files": {
+    "index.html": "8905024c82143b4cddd7951d1b810f116d6bb96dc1cbd61b1c0e74b3bedacfc4",
+    "styles.css": "7c12c58f769e971be09ee51b05d6384db83cfc4738ba0893a0076c6447bbc717",
+    "app.js": "b393b084ece6e53b98df5a0d55acf9a3ae143ffc1513d960d9c76ed73c7b964c",
+    "manifest.webmanifest": "bf29a3e2898fecb4e80eb9b17572a40f39d034bb02ee23c50b023bbabafa5ad3",
+    "sw.template.js": "76f883d3884bcd29044cfeabea02a8e1f3fc3f5b737653f9301dc645ea7682e3",
+    "sw.js": "90cb0af14eb20c2b4cdeb54588d50086e4a9b89f62031b0b787c23e36439f164",
+    "data/prayers.json": "abe9b492d6adee918314a7fae2578467e355991cbb4dc34d344191978cbb5a8a",
+    "data/prayers.js": "eab829fc16b215520c38a47e82db28aee603cd53fbea4779d3cdf737915ae16e",
+    "data/help.json": "170e9b4d0309ef134b1e0564489fe02883a8fc87704d92d3aef3b8fc152e1bbd",
+    "data/help.js": "b63c7dae1f722346009049ba3d56b9b675cb4300d82120a71d9398c81f63e12d",
+    "release.json": "f98d779a27c06c608e0046680843bdccb612e689d6fc8a2b95a3f0e894baf253",
+    "icons/icon.svg": "487b25c54331197098e49b33d502748e6751188fc30dcb3da4ccfc1916ad5893",
+    "icons/icon-192.png": "3398bb5f68f23e89057b83c8399a4d6e0b0cce0d98639b41f4128886ee47ad45",
+    "icons/icon-512.png": "2626a4a8b6e60be67714422dbc38f814a06bc03b45c18bf96f8bce0685b81d27"
+  },
+  "source_release_bytes": 97329,
+  "source_release_identity_note": "Historical immutable V0.1.6 prototype-release identity. The runtime hashes below, not repository-tooling files, define this baseline."
+}

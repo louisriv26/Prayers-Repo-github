@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f8f6f1">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="description" content="Un livre de prières personnel, hors ligne et personnalisable.">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="styles.css">
+  <title>Mes prières</title>
+</head>
+<body>
+  <a class="skip-link" href="#app-main">Aller au contenu principal</a>
+  <div id="app" class="app-shell">
+    <div class="boot-screen" role="status">Chargement de vos prières…</div>
+  </div>
+  <script src="data/prayers.js"></script>
+  <script src="data/help.js"></script>
+  <script src="app.js" defer></script>
+</body>
+</html>

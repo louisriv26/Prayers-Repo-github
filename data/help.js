@@ -1,0 +1,319 @@
+window.APP_HELP = {
+  "helpVersion": "1.0.0",
+  "language": "fr",
+  "title": "Aide",
+  "intro": "Cette aide explique le fonctionnement de cette version privée de Mes prières. Elle décrit ce qui est effectivement disponible dans l’application et ses limites actuelles.",
+  "sections": [
+    {
+      "id": "essentiel",
+      "title": "L’essentiel",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Le Répertoire contient les prières disponibles dans l’application. Mes prières est votre espace personnel : vous décidez des listes que vous créez, des prières qui y apparaissent et de leur ordre."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Une prière retirée d’une liste reste dans le Répertoire.",
+            "Une même prière peut figurer dans plusieurs de vos listes.",
+            "Votre sélection, vos listes et vos réglages sont conservés localement sur cet appareil."
+          ]
+        },
+        {
+          "type": "notice",
+          "label": "À retenir",
+          "text": "Cette application ne synchronise pas automatiquement vos listes entre votre téléphone, votre iPad et vos autres appareils. Utilisez la sauvegarde avant de changer d’appareil."
+        }
+      ]
+    },
+    {
+      "id": "demarrer",
+      "title": "Bien commencer",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Lors du premier lancement, vous pouvez choisir l’une des trois manières de commencer. Aucun choix n’est définitif."
+        },
+        {
+          "type": "steps",
+          "items": [
+            "Choisir mes prières : donnez un nom à votre première liste, puis cochez les prières que vous souhaitez retrouver facilement.",
+            "Commencer avec une sélection proposée : l’application crée une courte liste de départ, que vous pourrez modifier ensuite.",
+            "Commencer avec une liste vide : créez votre liste maintenant et ajoutez les prières plus tard depuis le Répertoire."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Après le premier lancement, ouvrez Mes prières pour accéder à la liste active. Touchez le titre de la liste pour passer à une autre liste."
+        }
+      ]
+    },
+    {
+      "id": "listes",
+      "title": "Créer et gérer mes listes",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Une liste correspond à votre manière de prier dans un contexte donné. Vous pouvez n’avoir qu’une liste ou en créer plusieurs, par exemple Matin, Soir, Voyage, Protection ou Avant la messe."
+        },
+        {
+          "type": "steps",
+          "items": [
+            "Depuis Mes prières, touchez Organiser.",
+            "Pour créer une liste, choisissez Créer une liste et donnez-lui un nom.",
+            "Pour renommer la liste ouverte, modifiez son nom puis choisissez Renommer.",
+            "Pour définir la liste qui s’ouvrira habituellement au lancement, choisissez Définir comme accueil.",
+            "Dans Mes listes, utilisez les flèches pour changer l’ordre des listes ou Ouvrir pour gérer une autre liste.",
+            "Pour supprimer une liste, choisissez Supprimer la liste puis confirmez. Les prières restent dans le Répertoire et dans vos autres listes."
+          ]
+        },
+        {
+          "type": "notice",
+          "label": "Protection contre une suppression involontaire",
+          "text": "L’application conserve toujours au moins une liste. Une liste supprimée ne supprime jamais une prière du Répertoire."
+        }
+      ]
+    },
+    {
+      "id": "organiser",
+      "title": "Ajouter, retirer et ordonner les prières",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La personnalisation se fait dans Organiser afin que l’écran de lecture reste calme et sans boutons de gestion inutiles."
+        },
+        {
+          "type": "steps",
+          "items": [
+            "Dans la liste ouverte, choisissez Ajouter une prière. Cochez ou décochez les prières à afficher dans cette liste, puis choisissez Enregistrer.",
+            "Pour retirer une prière de la liste ouverte, utilisez le bouton Retirer à côté de son titre dans Organiser. Elle restera disponible dans le Répertoire.",
+            "Pour changer l’ordre, faites glisser une ligne lorsque ce geste est pris en charge, ou utilisez les flèches Monter et Descendre.",
+            "Depuis la page de lecture d’une prière, choisissez Ajouter à une liste pour l’ajouter à une ou plusieurs de vos listes."
+          ]
+        },
+        {
+          "type": "notice",
+          "label": "Une prière, plusieurs contextes",
+          "text": "La même prière peut être dans Matin, Voyage et Protection, avec une position différente dans chaque liste. L’application évite seulement qu’elle apparaisse deux fois dans la même liste."
+        }
+      ]
+    },
+    {
+      "id": "repertoire",
+      "title": "Utiliser le Répertoire",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Le Répertoire contient toutes les prières présentes dans cette version de l’application, même celles que vous ne souhaitez pas afficher chaque jour."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Utilisez la zone Rechercher une prière pour chercher dans le titre, les catégories, les mots-clés et le texte des prières.",
+            "Utilisez les filtres de catégorie pour limiter la liste affichée.",
+            "L’indication Dans une ou plusieurs listes vous montre qu’une prière fait déjà partie de votre espace personnel.",
+            "Ouvrez une prière pour la lire, puis choisissez Ajouter à une liste si vous souhaitez l’inclure dans vos listes personnelles."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Lorsque vous ouvrez une prière depuis le Répertoire, Retour vous ramène au Répertoire avec votre recherche et votre filtre conservés."
+        }
+      ]
+    },
+    {
+      "id": "lecture",
+      "title": "Lire une prière",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Touchez une prière pour ouvrir une page de lecture. Le bouton Retour vous ramène à l’endroit d’où vous venez."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Si vous avez ouvert la prière depuis une liste personnelle, les boutons du bas permettent de passer à la prière précédente ou suivante dans cette liste.",
+            "La section Informations sur le texte affiche la provenance déclarée et le statut éditorial de la prière.",
+            "Pendant le défilement, l’application enregistre localement la dernière position de lecture pour cette prière. Cette information peut disparaître si les données locales sont effacées."
+          ]
+        },
+        {
+          "type": "notice",
+          "label": "Lecture sans distraction",
+          "text": "Les fonctions de gestion sont séparées de la lecture. Vous pouvez ajouter la prière à vos listes sans modifier son texte officiel."
+        }
+      ]
+    },
+    {
+      "id": "reglages",
+      "title": "Régler le confort de lecture",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Touchez l’icône Réglages dans l’en-tête pour modifier les préférences de lecture."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Thème : Système, Clair ou Sombre.",
+            "Taille du texte : appliquée aux pages de lecture des prières.",
+            "Interligne : Compact, Confortable ou Très aéré.",
+            "Garder l’écran actif : tente d’empêcher l’extinction de l’écran pendant la lecture, lorsque le navigateur et l’appareil le permettent."
+          ]
+        },
+        {
+          "type": "notice",
+          "label": "Compatibilité",
+          "text": "Le réglage Garder l’écran actif dépend des capacités et des autorisations de votre appareil. Son activation ne garantit pas que l’écran restera allumé partout."
+        }
+      ]
+    },
+    {
+      "id": "sauvegarde",
+      "title": "Sauvegarder, restaurer et réinitialiser",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Vos listes, leur ordre, vos réglages et vos positions de lecture sont enregistrés localement dans le navigateur de cet appareil. Ils ne sont pas envoyés dans un compte en ligne."
+        },
+        {
+          "type": "steps",
+          "items": [
+            "Dans Réglages, choisissez Sauvegarder ma configuration pour télécharger un fichier de sauvegarde.",
+            "Conservez ce fichier dans un emplacement sûr avant de changer de téléphone, d’iPad, de navigateur ou avant d’effacer les données du navigateur.",
+            "Choisissez Restaurer une configuration pour importer un fichier de sauvegarde compatible. Après confirmation, cette opération remplace vos listes et réglages actuels.",
+            "Avant un import accepté, l’application crée une sauvegarde automatique de la configuration actuelle. Utilisez Restaurer la dernière sauvegarde automatique pour revenir à cet état antérieur."
+          ]
+        },
+        {
+          "type": "notice",
+          "label": "Attention avant de restaurer",
+          "text": "La restauration de la dernière sauvegarde automatique remplace directement la configuration actuelle. Exportez d’abord votre configuration actuelle si vous souhaitez pouvoir y revenir ensuite."
+        },
+        {
+          "type": "notice",
+          "label": "Réinitialisation",
+          "text": "Réinitialiser mes données locales efface les listes, réglages et sauvegarde automatique conservés par l’application sur cet appareil. Cette action ne peut pas être annulée par l’application."
+        }
+      ]
+    },
+    {
+      "id": "mises-a-jour",
+      "title": "Mises à jour et version",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La version installée apparaît au bas de « Mes prières » et dans Réglages. Cet affichage vous permet d’identifier précisément la version de l’application et la version du corpus."
+        },
+        {
+          "type": "steps",
+          "items": [
+            "Ouvrez Réglages, puis la section « Mise à jour ».",
+            "Choisissez « Vérifier les mises à jour ». Une connexion Internet est nécessaire.",
+            "Si une version plus récente est accessible, choisissez « Installer la mise à jour ». L’application prépare la nouvelle version puis se recharge avec votre accord explicite."
+          ]
+        },
+        {
+          "type": "notice",
+          "label": "Lecture préservée",
+          "text": "L’application ne force jamais une mise à jour pendant votre lecture. Vos listes et réglages restent stockés sur l’appareil et sont conservés lors d’une mise à jour normale."
+        },
+        {
+          "type": "notice",
+          "label": "Hors ligne",
+          "text": "Sans connexion, l’application reste utilisable avec son contenu déjà installé, mais elle ne peut pas vérifier si une version plus récente est disponible."
+        }
+      ]
+    },
+    {
+      "id": "installation",
+      "title": "Installer l’application et l’utiliser hors ligne",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Cette application est une PWA : elle doit être ouverte depuis une adresse web servie en HTTPS ou depuis un serveur local. N’ouvrez pas simplement le fichier index.html par double-clic."
+        },
+        {
+          "type": "steps",
+          "items": [
+            "Avant la première utilisation hors ligne, ouvrez l’application lorsque vous avez une connexion afin que ses fichiers puissent être mis en cache.",
+            "Sur iPhone ou iPad, ouvrez l’application dans Safari, utilisez le bouton Partager ou le menu de page, choisissez Ajouter à l’écran d’accueil et, lorsque l’option apparaît, activez Ouvrir comme app web avant d’ajouter.",
+            "Sur Android dans Chrome, ouvrez l’application, choisissez le menu Plus, puis Ajouter à l’écran d’accueil et Installer lorsque cette option est proposée.",
+            "Les intitulés et emplacements de ces commandes peuvent varier selon la version de votre système, votre navigateur et votre appareil."
+          ]
+        },
+        {
+          "type": "notice",
+          "label": "Limite de validation",
+          "text": "Le comportement réel d’installation, du service worker et du rechargement hors ligne doit encore être vérifié sur iPhone, iPad et Android. Cette version ne présente pas ces vérifications matérielles comme accomplies."
+        }
+      ]
+    },
+    {
+      "id": "contenu-confidentialite",
+      "title": "Contenu, confidentialité et statut de cette version",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Cette application est un prototype fonctionnel privé. Elle ne comporte pas de compte utilisateur, de synchronisation cloud, de création de prières personnelles, de notifications ni de suivi d’usage intégré."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Sept prières complètes sont présentes dans ce prototype.",
+            "Le Notre Père et le Je vous salue Marie ne sont pas encore dans le Répertoire, car leurs textes complets n’ont pas été fournis pour cette version.",
+            "Les textes présents sont marqués À valider : leurs sources, formulations et droits doivent être vérifiés avant toute diffusion publique."
+          ]
+        },
+        {
+          "type": "notice",
+          "label": "Texte officiel",
+          "text": "L’application ne permet pas de modifier les textes du Répertoire. Cette séparation protège le corpus commun ; vos choix personnels portent sur les listes, l’ordre et la lecture."
+        }
+      ]
+    },
+    {
+      "id": "depannage",
+      "title": "Dépannage rapide",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "Ma liste est vide : ouvrez le Répertoire, choisissez une prière, puis ajoutez-la à une liste, ou utilisez Organiser puis Ajouter une prière.",
+            "Je ne retrouve pas une prière : utilisez la recherche du Répertoire et retirez temporairement le filtre de catégorie.",
+            "Je change de téléphone ou d’iPad : exportez votre configuration sur l’ancien appareil, puis importez le fichier sur le nouvel appareil. Il n’y a pas de synchronisation automatique.",
+            "Une importation échoue : vérifiez que le fichier est une sauvegarde JSON produite par cette application et compatible avec sa version de sauvegarde.",
+            "Le réglage Garder l’écran actif ne fonctionne pas : certains navigateurs ou appareils ne proposent pas cette capacité ; la lecture reste disponible normalement.",
+            "L’application ne fonctionne pas hors ligne : reconnectez-vous, ouvrez l’application depuis son adresse servie, laissez-la se charger complètement, puis essayez de nouveau."
+          ]
+        },
+        {
+          "type": "notice",
+          "label": "Données locales perdues",
+          "text": "Si les données du navigateur ont été supprimées, l’application peut ne plus retrouver vos listes. Utilisez votre fichier de sauvegarde exporté ou, si elle est encore disponible sur cet appareil, la dernière sauvegarde automatique."
+        }
+      ]
+    },
+    {
+      "id": "limites",
+      "title": "Limites connues de la V1",
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "Cette version est un prototype privé et n’est pas approuvée pour une diffusion publique.",
+            "Le corpus reste à valider contre des sources de référence avant toute diffusion plus large.",
+            "Il n’y a pas de compte, de cloud ni de synchronisation automatique entre appareils.",
+            "La création de prières personnelles n’est pas encore disponible.",
+            "L’installation réelle, le service worker, IndexedDB sur origine réelle et le rechargement hors ligne doivent encore être testés sur des appareils physiques."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "L’aide décrit la version actuellement installée. Les fonctions et les limites pourront évoluer avec les prochaines versions."
+        }
+      ]
+    }
+  ]
+};

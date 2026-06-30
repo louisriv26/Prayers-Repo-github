@@ -1,0 +1,15 @@
+{
+  "package_name": "Mes_Prieres_PWA_Prototype_v0.1.6_Help_Audited.zip",
+  "package_root": "mes-prieres-pwa-prototype-v0.1.6-help-audited",
+  "app_version": "0.1.6-help-audited-prototype",
+  "corpus_version": "0.1.0-prototype",
+  "release_version": "0.1.6",
+  "release_published_at": "2026-06-30",
+  "delivery_scope": "Private functional prototype. Not approved for public distribution.",
+  "package_status": "PACKAGE_BUILT_AWAITING_EXTERNAL_REOPEN_AUDIT",
+  "file_manifest": "audit/package_file_manifest.txt",
+  "manifest_scope": "All package files except audit/PACKAGE_METADATA.json and audit/package_file_manifest.txt.",
+  "content_manifest_sha256": "3b52c1c40a9180b97d52c89b478dfcaa98a4ba5e5277e347b1ae11ab3a56b12d",
+  "build_script": "tools/build_release.py",
+  "build_format": "deterministic-zip-v1"
+}

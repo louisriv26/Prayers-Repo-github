@@ -1,0 +1,19 @@
+# Generated GitHub Pages artifact
+site/
+
+# Python and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.playwright/
+test-results/
+playwright-report/
+
+# Local release artifacts
+*.zip
+*_Final_Reopen_Audit.md
+*_Four_Pass_Deep_Audit.md
+*_GitHub_Package_Audit.md
+
+*_GitHub_Final_Reopen_Audit.md
+*_GitHub_Four_Pass_Deep_Audit.md
